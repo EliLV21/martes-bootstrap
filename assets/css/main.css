@@ -1,0 +1,27 @@
+body{
+  font-family: 'Pacifico', cursive;
+}
+body{
+  text-align: center;
+}
+#navegador{
+  background-color: crimson;
+  padding-top: 2%;
+  font-size: 1.5em;
+  padding-bottom: 2%;
+}
+#logo{
+  width: 30%;
+}
+a{
+  color: #fff;
+}
+#aboutMe{
+  font-family: 'Comfortaa', cursive;
+}
+.fotos{
+  padding-top: 5%;
+}
+.unico{
+  padding: 5%;
+}

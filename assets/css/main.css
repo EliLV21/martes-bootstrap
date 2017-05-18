@@ -18,10 +18,28 @@ a{
 }
 #aboutMe{
   font-family: 'Comfortaa', cursive;
+  margin-top: 2%;
 }
 .fotos{
-  padding-top: 5%;
+  padding-top: 6%;
 }
 .unico{
   padding: 5%;
+}
+.divisor{
+  width: 100%;
+  height: auto;
+}
+#peliculas{
+  margin-top: 2%;
+}
+#series{
+  font-family: 'Comfortaa', cursive;
+  margin-top: 2%;
+}
+.seriesTv{
+  margin-top: 2%;
+}
+.progresoSerie{
+  background-image: url(http://3.bp.blogspot.com/-8EO58IX4oLY/UPfqOKPHvLI/AAAAAAAATIA/84xFrkwE3Ek/s1600/GRD_351_Borboletas_-_Listras__57104_zoom.jpg);
 }
